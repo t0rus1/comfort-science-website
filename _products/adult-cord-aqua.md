@@ -20,4 +20,7 @@ styles:
   - name: Aqua
     color: '#bee0e1'
     image: /images/products/adult-corduroy/adult-corduroy-aqua.jpg
+  - name: another
+    color:
+    image:
 ---
