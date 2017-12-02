@@ -29,6 +29,10 @@ collections:
   products:
     _hide_content: true
     output: true
+  families:
+    _hide_content: true
+    output: true
+    
 
 permalink: pretty
 
@@ -37,6 +41,12 @@ defaults:
     scope:
       path: ""
       type: "products"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "families"
     values:
       layout: "product"
   -
