@@ -1,5 +1,5 @@
 ---
-name: Family Corduroy Coffee
+name: Family Corduroy Dove Grey
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3900
-sku: XL_CORD_COFFEE
+sku: XL_CORD_DOVEGREY
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Coffee
-    color: '#856558'
-    image: /images/products/family-corduroy/family-corduroy-coffee.jpg
+  - name: Dove Grey
+    color: '#a09a9a'
+    image: /images/products/family-corduroy/family-corduroy-dove-grey.jpg
 ---
