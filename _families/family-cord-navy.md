@@ -1,5 +1,5 @@
 ---
-name: Family Corduroy Graphite
+name: Family Corduroy Navy
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3900
-sku: XL_CORD_GRAPHITE
+sku: XL_CORD_NAVY
 stock: 10
 sizes:
   - Family
 styles:
   - name: Graphite
-    color: '#53535f'
-    image: /images/products/family-corduroy/family-corduroy-graphite.jpg
+    color: '#3d4c6b'
+    image: /images/products/family-corduroy/family-corduroy-navy.jpg
 ---
