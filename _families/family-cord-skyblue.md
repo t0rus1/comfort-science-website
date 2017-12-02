@@ -1,5 +1,5 @@
 ---
-name: Family Corduroy Navy
+name: Family Corduroy Sky Blue
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3900
-sku: XL_CORD_NAVY
+sku: XL_CORD_SKYBLUE
 stock: 10
 sizes:
   - Family
 styles:
   - name: Graphite
-    color: '#3d4c6b'
-    image: /images/products/family-corduroy/family-corduroy-navy.jpg
+    color: '#b0c2ce'
+    image: /images/products/family-corduroy/family-corduroy-skyblue.jpg
 ---
