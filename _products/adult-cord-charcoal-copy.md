@@ -1,5 +1,5 @@
 ---
-name: Adult Corduroy Coffee
+name: Adult Corduroy Charcoal
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_CORD_COFFEE
+sku: L_CORD_CHARCOAL
 stock: 10
 sizes:
   - Adult
 styles:
   - name: Coffee
-    color: '#8f6f62'
-    image: /images/products/adult-corduroy-coffee.jpg
+    color: '#757376'
+    image: /images/products/adult-corduroy-charcoal.jpg
 ---
