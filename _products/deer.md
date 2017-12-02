@@ -1,20 +1,14 @@
 ---
-name: Sacha the Deer
+name: Adult Corduroy Coffee
 description_markdown: >-
-  Sacha's elegant antlers have never been seen on such a beautiful t-shirt. Wear
-  this majestic beast and feel all your problems float away.
-
-
-  Slim Fit, 5oz 100% Cotton T-Shirt.
+  Beanbag foam filled inner bag and removable cover in luxurious corduroy
+  fabric. The cover is non-crease and washable in cold water.
 garment_type:
-price: '9'
-sku: deer
+price: '3350'
+sku: L_CORD_COFFEE
 stock: 10
 sizes:
-  - Gamer
   - Adult
-  - Family
-  - Footbag
 styles:
   - name: Black
     color: '#000000'
