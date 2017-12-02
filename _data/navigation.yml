@@ -3,7 +3,7 @@
   new_window: false
   highlight: true
 - name: Family size
-  link: families
+  link: /families
   new_window: false
   highlight: true
 - name: Our Story
