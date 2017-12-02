@@ -1,7 +1,7 @@
 - name: Products
   link: /
   new_window: false
-  highlight: false
+  highlight: true
 - name: Our Story
   link: /about/
   new_window: false
