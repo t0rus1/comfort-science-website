@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Fur
+title: Comfort Science
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -10,11 +10,11 @@ snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5O
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Fur t-shirt store
+description: Beanbags in various sizes, fabrics and colours
 author:
-  name: fur
-  email: fur@example.com
-  twitter: fur # twitter username without the @ symbol
+  name: leon
+  email: leon@thebeanbag.co.za
+  twitter: 
 social:
   name: Fur Template
   links:
