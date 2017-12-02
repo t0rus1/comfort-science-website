@@ -1,5 +1,5 @@
 ---
-name: Adult Corduroy Sand
+name: Adult Corduroy Cerise
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_CORD_SAND
+sku: L_CORD_CERISE
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Sand
-    color: '#b8b3b0'
-    image: /images/products/adult-corduroy-sand.jpg
+  - name: Cerise
+    color: '#e74b9c'
+    image: /images/products/adult-corduroy-shockingpink.jpg
 ---
