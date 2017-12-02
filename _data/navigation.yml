@@ -1,4 +1,4 @@
-- name: Products
+- name: Adults
   link: /
   new_window: false
   highlight: true
@@ -8,5 +8,9 @@
   highlight: false
 - name: Contact
   link: /contact/
+  new_window: false
+  highlight: false
+- name: Families
+  link: families
   new_window: false
   highlight: false
