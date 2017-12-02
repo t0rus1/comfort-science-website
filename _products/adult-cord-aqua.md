@@ -12,7 +12,7 @@ price: '3350'
 sku: CORD_AQUA
 stock: 10
 sizes:
-  - name: Aqua
+  - Adult
 styles:
   - name: Aqua
     color: '#bee0e1'
