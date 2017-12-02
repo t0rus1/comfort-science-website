@@ -26,7 +26,7 @@ social:
 collections:
   staff_members:
     _hide_content: true
-  products:
+  adults:
     _hide_content: true
     output: true
 
@@ -36,7 +36,7 @@ defaults:
   -
     scope:
       path: ""
-      type: "products"
+      type: "adults"
     values:
       layout: "product"
   -
