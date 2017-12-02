@@ -10,7 +10,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Black
+  - name: Coffee
     color: '#000000'
     image: /images/products/deer/black.jpg
   - name: Blue
