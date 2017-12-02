@@ -1,5 +1,5 @@
 ---
-name: Adult Corduroy Sand
+name: Adult Denim Navy
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,7 +9,7 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_CORD_SAND
+sku: L_DENIM_NAVY
 stock: 10
 sizes:
   - Adult
