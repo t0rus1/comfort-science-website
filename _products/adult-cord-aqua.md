@@ -12,10 +12,7 @@ price: '3350'
 sku: CORD_AQUA
 stock: 10
 sizes:
-  - name: Adult
-  - name: Gamer
-  - name: Family
-  - name: Footbag
+  - name: Aqua
 styles:
   - name: Aqua
     color: '#bee0e1'
