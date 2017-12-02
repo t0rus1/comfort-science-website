@@ -14,7 +14,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Coffee
+  - name: Charcoal
     color: '#757376'
-    image: /images/products/adult-corduroy-charcoal.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-charcoal.jpg
 ---
