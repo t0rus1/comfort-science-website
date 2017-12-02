@@ -12,4 +12,10 @@
 			<div style="background-color: {{ style.color }}" data-item-id="{{ forloop.index }}"></div>
 		{% endfor %}
 	</div>
+	
+	<div>
+		{% for size in include.product.sizes %}
+			<div data-item-id="{{ forloop.index }}">{{ size }}</div>
+		{% endfor %}
+	</div>
 </div>
