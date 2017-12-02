@@ -5,10 +5,7 @@ price:
 sku:
 description:
 sizes:
-  Gamer
-  Adult
-  Family
-  Footbag
+  - name:
 styles:
   - name:
     color:
