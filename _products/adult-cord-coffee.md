@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Coffee
     color: '#8f6f62'
-    image: /images/products/adult-corduroy-coffee.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-coffee.jpg
 ---
