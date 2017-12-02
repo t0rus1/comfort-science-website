@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Sand
     color: '#b8b3b0'
-    image: /images/products/adult-corduroy-sand.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-sand.jpg
 ---
