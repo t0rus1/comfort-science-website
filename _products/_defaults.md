@@ -5,11 +5,10 @@ price:
 sku:
 description:
 sizes:
-  - XS
-  - Small
-  - Medium
-  - Large
-  - XL
+  - Gamer
+  - Adult
+  - Family
+  - Footbag
 styles:
   - name:
     color:
