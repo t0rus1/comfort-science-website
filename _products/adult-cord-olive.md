@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Olive
     color: '#b0a98d'
-    image: /images/products/adult-corduroy-olive.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-olive.jpg
 ---
