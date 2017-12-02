@@ -17,7 +17,4 @@ styles:
   - name: Aqua Adult
     color: '#bee0e1'
     image: /images/products/adult-corduroy/adult-corduroy-aqua.jpg
-  - name: Family sized
-    color: '#ffffff'
-    image: /images/products/family-corduroy/family-corduroy-aqua.jpg
 ---
