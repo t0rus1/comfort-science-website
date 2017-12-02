@@ -14,7 +14,10 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Aqua
+  - name: Aqua Adult
     color: '#bee0e1'
     image: /images/products/adult-corduroy-aqua.jpg
+  - name: Aqua Family
+    color: '#bee0e1'
+    image:
 ---
