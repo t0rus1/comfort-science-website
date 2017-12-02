@@ -9,7 +9,7 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: CORD_AQUA
+sku: L_CORD_AQUA
 stock: 10
 sizes:
   - Adult
