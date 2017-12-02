@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Cerise
     color: '#e74b9c'
-    image: /images/products/adult-corduroy-shockingpink.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-shockingpink.jpg
 ---
