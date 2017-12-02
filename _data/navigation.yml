@@ -1,16 +1,16 @@
-- name: Adults
+- name: Adult size
   link: /
   new_window: false
   highlight: true
+- name: Family size
+  link: families
+  new_window: false
+  highlight: false
 - name: Our Story
   link: /about/
   new_window: false
   highlight: false
 - name: Contact
   link: /contact/
-  new_window: false
-  highlight: false
-- name: Families
-  link: families
   new_window: false
   highlight: false
