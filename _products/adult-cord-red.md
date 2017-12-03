@@ -15,6 +15,6 @@ sizes:
   - Adult
 styles:
   - name: Sand
-    color: '#9d232e'
-    image: /images/products/adult-corduroy/adult-corduroy-red.jpg
+    color: '#ae0b1e'
+    image: /images/products/adult-corduroy/adult-corduroy-red2.jpg
 ---
