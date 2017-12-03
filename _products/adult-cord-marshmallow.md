@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Marshmallow
     color: '#c38eaa'
-    image: /images/products/adult-corduroy/adult-corduroy-marshmallow.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-marshmallow2.jpg
 ---
