@@ -5,8 +5,8 @@ description_markdown: >-
   fabric. The cover is non-crease and washable in cold water.&nbsp;
 
 
-  The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth x
-  height ) and weighs approximately **25** kg.
+  The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
+  x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3900
 sku: XL_CORD_AQUA
@@ -15,6 +15,6 @@ sizes:
   - Family
 styles:
   - name: Aqua
-    color: '#bee0e1'
-    image: /images/products/family-corduroy/family-corduroy-aqua.jpg
+    color: '#94bcbd'
+    image: /images/products/family-corduroy/family-corduroy-skyblue.jpg
 ---
