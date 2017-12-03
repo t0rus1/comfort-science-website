@@ -6,7 +6,15 @@
   link: /families
   new_window: false
   highlight: true
-- name: Our Story
+- name: Gamer size
+  link: /gamers
+  new_window: false
+  highlight: true
+- name: Footbags
+  link: /footbags
+  new_window: false
+  highlight: true
+- name: Info
   link: /about/
   new_window: false
   highlight: false
