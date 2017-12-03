@@ -15,6 +15,6 @@ sizes:
   - Adult
 styles:
   - name: Lime
-    color: '#9eb55a'
-    image: /images/products/adult-corduroy/adult-corduroy-lime.jpg
+    color: '#b0c37f'
+    image: /images/products/adult-corduroy/adult-corduroy-lime2.jpg
 ---
