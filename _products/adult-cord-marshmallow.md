@@ -1,5 +1,5 @@
 ---
-name: Adult Corduroy Red
+name: Adult Corduroy Marshmallow
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_CORD_RED
+sku: L_CORD_PINK
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Sand
-    color: '#9d232e'
-    image: /images/products/adult-corduroy/adult-corduroy-red.jpg
+  - name: Marshmallow
+    color: '#c38eaa'
+    image: /images/products/adult-corduroy/adult-corduroy-marshmallow.jpg
 ---
