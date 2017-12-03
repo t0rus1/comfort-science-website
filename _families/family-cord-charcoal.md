@@ -1,5 +1,5 @@
 ---
-name: Family Denim Navy
+name: Family Corduroy Charcoal
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in serviceable denim
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -8,13 +8,13 @@ description_markdown: >-
   The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
   x height ) and weighs approximately **25** kg.
 garment_type:
-price: 2799
-sku: XL_DENIM_NAVY
+price: 3900
+sku: XL_CORD_CHARCOAL
 stock: 10
 sizes:
   - Family
 styles:
   - name: Navy
-    color: '#384661'
-    image: /images/products/family-denim/family-denim-navy.jpg
+    color: '#949091'
+    image: /images/products/family-corduroy/family-corduroy-charcoal.jpg
 ---
