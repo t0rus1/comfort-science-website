@@ -1,21 +1,21 @@
 ---
 name: Gamer Corduroy Red
 description_markdown: >-
-  Gamer sized - suitable for young teens
-  Beanbag with foam filled inner bag and removable cover in luxurious corduroy
-  fabric. The cover is non-crease and washable in cold water.&nbsp;
+  Gamer sized - suitable for young teens Beanbag with foam filled inner bag and
+  removable cover in luxurious corduroy fabric. The cover is non-crease and
+  washable in cold water.&nbsp;
 
 
-  The Gamer size's dimensions are: **120 x 90 x 65**&nbsp; cm ( width x depth
-  x height ) and weighs approximately **9** kg.
+  The Gamer size's dimensions are: **120 x 90 x 65**&nbsp; cm ( width x depth x
+  height ) and weighs approximately **9** kg.
 garment_type:
-price: 3900
+price: 1999
 sku: GM_CORD_RED
 stock: 10
 sizes:
   - Gamer
 styles:
   - name: Red
-    color: '#94bcbd'
-    image: /images/gamer/gamer-corduroy/gamer-corduroy-red.jpg
+    color: '#a70014'
+    image: /images/products/gamer-corduroy/gamer-cord-red.jpg
 ---
