@@ -1,12 +1,12 @@
-- name: Adult size
+- name: Adult sizes
   link: /
   new_window: false
   highlight: true
-- name: Family size
+- name: Family sizes
   link: /families
   new_window: false
   highlight: true
-- name: Gamer size
+- name: Gamer sizes
   link: /gamers
   new_window: false
   highlight: true
