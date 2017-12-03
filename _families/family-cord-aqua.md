@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Aqua
     color: '#94bcbd'
-    image: /images/products/family-corduroy/family-corduroy-skyblue.jpg
+    image: /images/products/family-corduroy/family-corduroy-aqua2.jpg
 ---
