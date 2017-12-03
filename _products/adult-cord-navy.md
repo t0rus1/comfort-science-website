@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Navy
     color: '#566385'
-    image: /images/products/adult-corduroy/adult-corduroy-navy.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-navy2.jpg
 ---
