@@ -55,6 +55,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "gamers"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
     values:
       layout: "page"
   -
