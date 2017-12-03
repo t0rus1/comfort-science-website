@@ -15,7 +15,7 @@ stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Aqua
+  - name: Red
     color: '#94bcbd'
-    image: /images/products/family-corduroy/family-corduroy-aqua2.jpg
+    image: /images/gamer/gamer-corduroy/gamer-corduroy-red.jpg
 ---
