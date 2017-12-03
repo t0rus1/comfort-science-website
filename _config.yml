@@ -32,6 +32,9 @@ collections:
   families:
     _hide_content: true
     output: true
+  gamers:
+    _hide_content: true
+    output: true
     
 
 permalink: pretty
