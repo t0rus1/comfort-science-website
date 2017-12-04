@@ -17,7 +17,7 @@ stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Red
+  - name: Charcoal
     color: '#777777'
     image: /images/products/gamer-corduroy/gamer-corduroy-charcoal.png
 ---
