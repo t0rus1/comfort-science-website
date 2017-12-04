@@ -1,5 +1,5 @@
 ---
-name: Family Drama Eggnog
+name: Family Drama Fossil
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_EGGNOG
+sku: XL_DRAMA_FOSSIL
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Eggnog
-    color: '#a29173'
-    image: /images/products/family-drama/family-drama-eggnog.jpg
+  - name: Fossil
+    color: '#8d8077'
+    image: /images/products/family-drama/family-drama-fossil.jpg
 ---
