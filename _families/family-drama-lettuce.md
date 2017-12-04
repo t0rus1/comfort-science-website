@@ -1,5 +1,5 @@
 ---
-name: Family Drama Jadeite
+name: Family Drama Lettuce
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_JADEITE
+sku: XL_DRAMA_LETTUCE
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Jadeite
-    color: '#828a7d'
-    image: /images/products/family-drama/family-drama-jadeite.jpg
+  - name: Lettuce
+    color: '#817931'
+    image: /images/products/family-drama/family-drama-lettuce.jpg
 ---
