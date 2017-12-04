@@ -1,5 +1,5 @@
 ---
-name: Family Drama Lettuce
+name: Family Drama Limo
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_LETTUCE
+sku: XL_DRAMA_LIMO
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Lettuce
-    color: '#817931'
-    image: /images/products/family-drama/family-drama-lettuce.jpg
+  - name: Limo
+    color: '#403e43'
+    image: /images/products/family-drama/family-drama-limo.jpg
 ---
