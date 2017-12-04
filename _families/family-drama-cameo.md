@@ -6,7 +6,7 @@ description_markdown: >-
   water.&nbsp;
 
 
-  Our supplier **Hertex &nbsp;**describes their fabric as:
+  Our supplier **Hertex&nbsp;**describes their fabric as:
 
 
   > Drama is a hard-wearing, luxurious cotton / poly pile yarn product that
