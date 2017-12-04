@@ -1,5 +1,5 @@
 ---
-name: Gamer Corduroy Aqua
+name: Gamer Corduroy Olive
 description_markdown: >-
   Gamer sized - suitable for young teens…
 
@@ -12,12 +12,12 @@ description_markdown: >-
   height ) and weighs approximately **9** kg.
 garment_type:
 price: 1999
-sku: GM_CORD_AQUA
+sku: GM_CORD_OLIVE
 stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Aqua
-    color: '#74a7a8'
-    image: /images/products/gamer-corduroy/gamer-corduroy-aqua.jpg
+  - name: Olive
+    color: '#7d7358'
+    image: /images/products/gamer-corduroy/gamer-corduroy-olive.jpg
 ---
