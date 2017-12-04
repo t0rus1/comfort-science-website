@@ -1,5 +1,5 @@
 ---
-name: Family Drama Cameo
+name: Family Drama Cloud
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -17,13 +17,13 @@ description_markdown: >-
   The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
   x height ) and weighs approximately **25** kg.
 garment_type:
-price: 3900
-sku: XL_DRAMA_CAMEO
+price: 3599
+sku: XL_DRAMA_CLOUD
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Cameo
-    color: '#a2aa9f'
-    image: /images/products/family-drama/family-drama-cameo.jpg
+  - name: Cloud
+    color: '#c5c3b6'
+    image: /images/products/family-drama/family-drama-cloud.jpg
 ---
