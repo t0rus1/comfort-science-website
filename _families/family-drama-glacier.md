@@ -1,5 +1,5 @@
 ---
-name: Family Drama Fossil
+name: Family Drama Glacier
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_FOSSIL
+sku: XL_DRAMA_GLACIER
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Fossil
-    color: '#8d8077'
-    image: /images/products/family-drama/family-drama-fossil.jpg
+  - name: Glacier
+    color: '#abaa95'
+    image: /images/products/family-drama/family-drama-glacier.jpg
 ---
