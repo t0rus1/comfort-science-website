@@ -17,7 +17,7 @@ stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Red
+  - name: Sky Blue
     color: '#b1c3ca'
     image: /images/products/gamer-corduroy/GamerCordSkyBlue.png
 ---
