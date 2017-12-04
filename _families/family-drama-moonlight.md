@@ -1,5 +1,5 @@
 ---
-name: Family Drama Monument
+name: Family Drama Moonlight
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_MONUMENT
+sku: XL_DRAMA_MOONLIGHT
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Monument
-    color: '#7e7c81'
-    image: /images/products/family-drama/family-drama-monument.jpg
+  - name: Moonlight
+    color: '#565b5e'
+    image: /images/products/family-drama/family-drama-moonlight.jpg
 ---
