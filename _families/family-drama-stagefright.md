@@ -1,5 +1,5 @@
 ---
-name: Family Drama Shitake
+name: Family Drama Stage Fright
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_SHITAKE
+sku: XL_DRAMA_STAGEFRIGHT
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Shitake
-    color: '#7c6651'
-    image: /images/products/family-drama/family-drama-shitake.jpg
+  - name: Stage Fright
+    color: '#ab4666'
+    image: /images/products/family-drama/family-drama-stagefright.jpg
 ---
