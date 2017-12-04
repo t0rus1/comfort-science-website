@@ -18,6 +18,6 @@ sizes:
   - Gamer
 styles:
   - name: Sea Mist
-    color: '#cacfd5'
+    color: '#b2c7ba'
     image: /images/products/gamer-corduroy/gamer-corduroy-seamist.jpg
 ---
