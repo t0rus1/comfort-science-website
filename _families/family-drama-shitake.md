@@ -1,5 +1,5 @@
 ---
-name: Family Drama Rust
+name: Family Drama Shitake
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_RUST
+sku: XL_DRAMA_SHITAKE
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Rust
-    color: '#cf6648'
-    image: /images/products/family-drama/family-drama-rust.jpg
+  - name: Shitake
+    color: '#7c6651'
+    image: /images/products/family-drama/family-drama-shitake.jpg
 ---
