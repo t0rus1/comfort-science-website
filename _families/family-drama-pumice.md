@@ -1,5 +1,5 @@
 ---
-name: Family Drama Peridot
+name: Family Drama Pumice
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_PERIDOT
+sku: XL_DRAMA_PUMICE
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Peridot
-    color: '#747660'
-    image: /images/products/family-drama/family-drama-peridot.jpg
+  - name: Pumice
+    color: '#b2aa95'
+    image: /images/products/family-drama/family-drama-pumice.jpg
 ---
