@@ -1,7 +1,7 @@
 ---
 name: Gamer Corduroy Aqua
 description_markdown: >-
-  Gamer sized - suitable for young teens...
+  Gamer sized - suitable for young teens…
 
 
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
@@ -17,7 +17,7 @@ stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Red
+  - name: Aqua
     color: '#74a7a8'
     image: /images/products/gamer-corduroy/gamer-corduroy-aqua.jpg
 ---
