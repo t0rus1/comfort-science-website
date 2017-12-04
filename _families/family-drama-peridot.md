@@ -1,5 +1,5 @@
 ---
-name: Family Drama Navy
+name: Family Drama Peridot
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_NAVY
+sku: XL_DRAMA_PERIDOT
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Navy
-    color: '#32405b'
-    image: /images/products/family-drama/family-drama-navy.jpg
+  - name: Peridot
+    color: '#747660'
+    image: /images/products/family-drama/family-drama-peridot.jpg
 ---
