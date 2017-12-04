@@ -1,5 +1,5 @@
 ---
-name: Family Drama Stage Fright
+name: Family Drama Teal
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious
   **drama**&nbsp;fabric. The cover is non-crease and washable in cold
@@ -18,12 +18,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3599
-sku: XL_DRAMA_STAGEFRIGHT
+sku: XL_DRAMA_TEAL
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Stage Fright
-    color: '#ab4666'
-    image: /images/products/family-drama/family-drama-stagefright.jpg
+  - name: Teal
+    color: '#567d7c'
+    image: /images/products/family-drama/family-drama-teal.jpg
 ---
