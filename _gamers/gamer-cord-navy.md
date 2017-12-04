@@ -1,5 +1,5 @@
 ---
-name: Gamer Corduroy Aqua
+name: Gamer Corduroy Navy
 description_markdown: >-
   Gamer sized - suitable for young teens…
 
@@ -12,12 +12,12 @@ description_markdown: >-
   height ) and weighs approximately **9** kg.
 garment_type:
 price: 1999
-sku: GM_CORD_AQUA
+sku: GM_CORD_NAVY
 stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Aqua
-    color: '#74a7a8'
-    image: /images/products/gamer-corduroy/gamer-corduroy-aqua.jpg
+  - name: Navy
+    color: '#5d5c7b'
+    image: /images/products/gamer-corduroy/gamer-corduroy-navy (2).jpg
 ---
