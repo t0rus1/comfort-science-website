@@ -1,7 +1,7 @@
 ---
 name: Gamer Corduroy Red
 description_markdown: >-
-  Gamer sized - suitable for young teens...
+  Gamer sized - suitable for young teens…
 
 
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
@@ -19,5 +19,5 @@ sizes:
 styles:
   - name: Red
     color: '#a70014'
-    image: /images/products/gamer-corduroy/gamer-cord-red.jpg
+    image: /images/products/gamer-corduroy/gamer-corduroy-red.jpg
 ---
