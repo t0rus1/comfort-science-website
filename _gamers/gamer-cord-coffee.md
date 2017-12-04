@@ -1,7 +1,7 @@
 ---
-name: Gamer Corduroy Aqua
+name: Gamer Corduroy Coffee
 description_markdown: >-
-  Gamer sized - suitable for young teens...
+  Gamer sized - suitable for young teens…
 
 
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
@@ -12,12 +12,12 @@ description_markdown: >-
   height ) and weighs approximately **9** kg.
 garment_type:
 price: 1999
-sku: GM_CORD_AQUA
+sku: GM_CORD_COFFEE
 stock: 10
 sizes:
   - Gamer
 styles:
-  - name: Red
-    color: '#74a7a8'
-    image: /images/products/gamer-corduroy/gamer-corduroy-aqua.jpg
+  - name: Coffee
+    color: '#614436'
+    image: /images/products/gamer-corduroy/gamer-corduroy-coffee.jpg
 ---
