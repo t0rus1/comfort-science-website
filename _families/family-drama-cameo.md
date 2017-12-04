@@ -23,7 +23,7 @@ stock: 10
 sizes:
   - Family
 styles:
-  - name: Aqua
+  - name: Cameo
     color: '#a2aa9f'
     image: /images/products/family-drama/family-drama-cameo.jpg
 ---
