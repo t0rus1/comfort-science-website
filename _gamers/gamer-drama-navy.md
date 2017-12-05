@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Navy
-    color: '#9aa293'
+    color: '#2D3B56'
     image: /images/products/gamer-drama/gamer-drama-navy.jpg
 ---
