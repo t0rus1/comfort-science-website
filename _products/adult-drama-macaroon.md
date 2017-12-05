@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Limo
+name: Adult Drama Macaroon
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_LIMO
+sku: L_DRAMA_MACAROON
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Limo
-    color: '#413f44'
-    image: /images/products/adult-drama/adult-drama-limo.jpg
+  - name: Macaroon
+    color: '#9d8b67'
+    image: /images/products/adult-drama/adult-drama-macaroon.jpg
 ---
