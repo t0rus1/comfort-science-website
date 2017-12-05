@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Moonlight
-    color: '#9aa293'
+    color: '#4D5255'
     image: /images/products/gamer-drama/gamer-drama-moonlight.jpg
 ---
