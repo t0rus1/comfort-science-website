@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Monument
-    color: '#9aa293'
+    color: '#7A787D'
     image: /images/products/gamer-drama/gamer-drama-monument.jpg
 ---
