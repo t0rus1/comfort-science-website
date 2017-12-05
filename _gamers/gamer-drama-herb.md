@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Herb
-    color: '#9aa293'
+    color: '#8D7E53'
     image: /images/products/gamer-drama/gamer-drama-herb.jpg
 ---
