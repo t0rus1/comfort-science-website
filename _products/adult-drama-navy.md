@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Moonlight
+name: Adult Drama Navy
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_MOONLIGHT
+sku: L_DRAMA_NAVY
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Moonlight
-    color: '#4a4f52'
-    image: /images/products/adult-drama/adult-drama-moonlight.jpg
+  - name: Navy
+    color: '#3b4964'
+    image: /images/products/adult-drama/adult-drama-navy.jpg
 ---
