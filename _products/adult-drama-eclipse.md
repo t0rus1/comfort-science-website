@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Cloud
+name: Adult Drama Eclipse
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_CLOUD
+sku: L_DRAMA_ECLIPSE
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Cloud
-    color: '#d2d0c3'
-    image: /images/products/adult-drama/adult-drama-cloud.jpg
+  - name: Eclipse
+    color: '#385371'
+    image: /images/products/adult-drama/adult-drama-eclipse.jpg
 ---
