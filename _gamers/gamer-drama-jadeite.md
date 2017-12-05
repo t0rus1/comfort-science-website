@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Jadeite
-    color: '#9aa293'
+    color: '#8F968E'
     image: /images/products/gamer-drama/gamer-drama-jadeite.jpg
 ---
