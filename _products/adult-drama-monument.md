@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Macaroon
+name: Adult Drama Monument
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_MACAROON
+sku: L_DRAMA_MONUMENT
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Macaroon
-    color: '#9d8b67'
+  - name: Monument
+    color: '#8b898e'
     image: /images/products/adult-drama/adult-drama-macaroon.jpg
 ---
