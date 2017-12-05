@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Quartz
-    color: '#9aa293'
+    color: '#D3BC2E'
     image: /images/products/gamer-drama/gamer-drama-quartz.jpg
 ---
