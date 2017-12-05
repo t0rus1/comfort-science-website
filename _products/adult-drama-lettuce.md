@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Jadeite
+name: Adult Drama Lettuce
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_JADEITE
+sku: L_DRAMA_LETTUCE
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Jadeite
-    color: '#767e73'
-    image: /images/products/adult-drama/adult-drama-jadeite.jpg
+  - name: Lettuce
+    color: '#766d22'
+    image: /images/products/adult-drama/adult-drama-lettuce.jpg
 ---
