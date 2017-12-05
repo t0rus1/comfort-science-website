@@ -2,7 +2,7 @@
 name: Adult Drama Limo
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
-  fabric. The cover is non-crease and washable in cold water.&nbsp;
+  fabric. The cover is non-crease and washable in cold water
 
 
   Our supplier&nbsp;**Hertex**&nbsp;describes their fabric as:
