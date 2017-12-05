@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Peridot
+name: Adult Drama Pumice
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_PERIDOT
+sku: L_DRAMA_PUMICE
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Peridot
-    color: '#484b2c'
-    image: /images/products/adult-drama/adult-drama-peridot.jpg
+  - name: Pumice
+    color: '#bebba8'
+    image: /images/products/adult-drama/adult-drama-pumice.jpg
 ---
