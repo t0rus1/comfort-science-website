@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: High Risk
-    color: '#9aa293'
+    color: '#B34A4F'
     image: /images/products/gamer-drama/gamer-drama-highrisk.jpg
 ---
