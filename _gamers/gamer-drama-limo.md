@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Limo
-    color: '#9aa293'
+    color: '#2E2C31'
     image: /images/products/gamer-drama/gamer-drama-limo.jpg
 ---
