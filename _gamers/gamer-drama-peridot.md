@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Peridot
-    color: '#9aa293'
+    color: '#525536'
     image: /images/products/gamer-drama/gamer-drama-peridot.jpg
 ---
