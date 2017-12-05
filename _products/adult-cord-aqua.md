@@ -1,6 +1,6 @@
 ---
-published: false
 name: Adult Corduroy Aqua
+published: false
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
