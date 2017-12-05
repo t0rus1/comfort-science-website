@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Quartz
+name: Adult Drama Rust
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_QUARTZ
+sku: L_DRAMA_RUST
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Quartz
-    color: '#ddcb5b'
-    image: /images/products/adult-drama/adult-drama-quartz.jpg
+  - name: Rust
+    color: '#da7a62'
+    image: /images/products/adult-drama/adult-drama-rust.jpg
 ---
