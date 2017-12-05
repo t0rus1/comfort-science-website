@@ -1,4 +1,5 @@
 ---
+published: false
 name: Family Corduroy Navy
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
