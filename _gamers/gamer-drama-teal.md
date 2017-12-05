@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Teal
-    color: '#9aa293'
+    color: '#3F6967'
     image: /images/products/gamer-drama/gamer-drama-teal.jpg
 ---
