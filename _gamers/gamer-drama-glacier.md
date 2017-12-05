@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Glacier
-    color: '#9aa293'
+    color: '#A4A38E'
     image: /images/products/gamer-drama/gamer-drama-glacier.jpg
 ---
