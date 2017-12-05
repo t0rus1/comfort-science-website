@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Pumice
-    color: '#9aa293'
+    color: '#AEA78B'
     image: /images/products/gamer-drama/gamer-drama-pumice.jpg
 ---
