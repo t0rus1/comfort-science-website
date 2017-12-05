@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Stage Fright
-    color: '#9aa293'
+    color: '#9C284F'
     image: /images/products/gamer-drama/gamer-drama-stagefright.jpg
 ---
