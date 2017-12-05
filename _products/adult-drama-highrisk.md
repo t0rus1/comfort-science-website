@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Herb
+name: Adult Drama High Risk
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_HERB
+sku: L_DRAMA_HIGHRISK
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Herb
-    color: '#96875c'
-    image: /images/products/adult-drama/adult-drama-herb.jpg
+  - name: High Risk
+    color: '#a0232b'
+    image: /images/products/adult-drama/adult-drama-highrisk.jpg
 ---
