@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Eggnog
-    color: '#9aa293'
+    color: '#AF9F86'
     image: /images/products/gamer-drama/gamer-drama-eggnog.jpg
 ---
