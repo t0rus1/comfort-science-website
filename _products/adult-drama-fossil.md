@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Eggnog
+name: Adult Drama Fossil
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_EGGNOG
+sku: L_DRAMA_FOSSIL
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Eggnog
-    color: '#bbad93'
-    image: /images/products/adult-drama/adult-drama-eggnog.jpg
+  - name: Fossil
+    color: '#7d6f62'
+    image: /images/products/adult-drama/adult-drama-fossil.jpg
 ---
