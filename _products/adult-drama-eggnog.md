@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Eclipse
+name: Adult Drama Eggnog
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_ECLIPSE
+sku: L_DRAMA_EGGNOG
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Eclipse
-    color: '#385371'
-    image: /images/products/adult-drama/adult-drama-eclipse.jpg
+  - name: Eggnog
+    color: '#bbad93'
+    image: /images/products/adult-drama/adult-drama-eggnog.jpg
 ---
