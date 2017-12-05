@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Rust
+name: Adult Drama Shitake
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_RUST
+sku: L_DRAMA_SHITAKE
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Rust
-    color: '#da7a62'
-    image: /images/products/adult-drama/adult-drama-rust.jpg
+  - name: Shitake
+    color: '#8e755f'
+    image: /images/products/adult-drama/adult-drama-shitake.jpg
 ---
