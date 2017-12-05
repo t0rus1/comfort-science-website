@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Macaroon
-    color: '#9aa293'
+    color: '#96845E'
     image: /images/products/gamer-drama/gamer-drama-macaroon.jpg
 ---
