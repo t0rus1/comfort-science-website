@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Shitake
+name: Adult Drama Stage Fright
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_SHITAKE
+sku: L_DRAMA_STAGEFRIGHT
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Shitake
-    color: '#8e755f'
-    image: /images/products/adult-drama/adult-drama-shitake.jpg
+  - name: Stage Fright
+    color: '#9e2e52'
+    image: /images/products/adult-drama/adult-drama-stagefright.jpg
 ---
