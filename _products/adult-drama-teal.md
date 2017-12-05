@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Stage Fright
+name: Adult Drama Teal
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_STAGEFRIGHT
+sku: L_DRAMA_TEAL
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Stage Fright
-    color: '#9e2e52'
-    image: /images/products/adult-drama/adult-drama-stagefright.jpg
+  - name: Teal
+    color: '#4c7372'
+    image: /images/products/adult-drama/adult-drama-teal.jpg
 ---
