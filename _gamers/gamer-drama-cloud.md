@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Cloud
-    color: '#9aa293'
+    color: '#D7D7CB'
     image: /images/products/gamer-drama/gamer-drama-cloud.jpg
 ---
