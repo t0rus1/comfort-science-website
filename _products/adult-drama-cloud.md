@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Cameo
+name: Adult Drama Cloud
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_CAMEO
+sku: L_DRAMA_CLOUD
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Cameo
-    color: '#9ca495'
-    image: /images/products/adult-drama/adult-drama-cameo.jpg
+  - name: Cloud
+    color: '#d2d0c3'
+    image: /images/products/adult-drama/adult-drama-cloud.jpg
 ---
