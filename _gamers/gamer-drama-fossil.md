@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Fossil
-    color: '#9aa293'
+    color: '#7B6D60'
     image: /images/products/gamer-drama/gamer-drama-fossil.jpg
 ---
