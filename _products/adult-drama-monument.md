@@ -22,6 +22,6 @@ sizes:
   - Adult
 styles:
   - name: Monument
-    color: '#8b898e'
-    image: /images/products/adult-drama/adult-drama-macaroon.jpg
+    color: '#868489'
+    image: /images/products/adult-drama/adult-drama-monument.jpg
 ---
