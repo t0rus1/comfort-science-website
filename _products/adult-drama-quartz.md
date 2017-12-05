@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Pumice
+name: Adult Drama Quartz
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_PUMICE
+sku: L_DRAMA_QUARTZ
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Pumice
-    color: '#bebba8'
-    image: /images/products/adult-drama/adult-drama-pumice.jpg
+  - name: Quartz
+    color: '#ddcb5b'
+    image: /images/products/adult-drama/adult-drama-quartz.jpg
 ---
