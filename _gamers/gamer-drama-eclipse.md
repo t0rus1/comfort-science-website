@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Eclipse
-    color: '#9aa293'
+    color: '#506787'
     image: /images/products/gamer-drama/gamer-drama-eclipse.jpg
 ---
