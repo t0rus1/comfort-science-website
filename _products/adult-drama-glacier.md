@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Fossil
+name: Adult Drama Glacier
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_FOSSIL
+sku: L_DRAMA_GLACIER
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Fossil
-    color: '#7d6f62'
-    image: /images/products/adult-drama/adult-drama-fossil.jpg
+  - name: Glacier
+    color: '#abaa95'
+    image: /images/products/adult-drama/adult-drama-glacier.jpg
 ---
