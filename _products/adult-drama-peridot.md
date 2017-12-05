@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Navy
+name: Adult Drama Peridot
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_NAVY
+sku: L_DRAMA_PERIDOT
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Navy
-    color: '#3b4964'
-    image: /images/products/adult-drama/adult-drama-navy.jpg
+  - name: Peridot
+    color: '#484b2c'
+    image: /images/products/adult-drama/adult-drama-peridot.jpg
 ---
