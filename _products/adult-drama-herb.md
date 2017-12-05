@@ -1,5 +1,5 @@
 ---
-name: Adult Drama Glacier
+name: Adult Drama Herb
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -16,12 +16,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: '3350'
-sku: L_DRAMA_GLACIER
+sku: L_DRAMA_HERB
 stock: 10
 sizes:
   - Adult
 styles:
-  - name: Glacier
-    color: '#abaa95'
-    image: /images/products/adult-drama/adult-drama-glacier.jpg
+  - name: Herb
+    color: '#96875c'
+    image: /images/products/adult-drama/adult-drama-herb.jpg
 ---
