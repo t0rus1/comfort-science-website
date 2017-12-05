@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Lettuce
-    color: '#9aa293'
+    color: '#6B6217'
     image: /images/products/gamer-drama/gamer-drama-lettuce.jpg
 ---
