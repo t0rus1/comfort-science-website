@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Shitake
-    color: '#9aa293'
+    color: '#99806A'
     image: /images/products/gamer-drama/gamer-drama-shitake.jpg
 ---
