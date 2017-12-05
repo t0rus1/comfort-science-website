@@ -27,6 +27,6 @@ sizes:
   - Gamer
 styles:
   - name: Rust
-    color: '#9aa293'
+    color: '#C64E33'
     image: /images/products/gamer-drama/gamer-drama-rust.jpg
 ---
