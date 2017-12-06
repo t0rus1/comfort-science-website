@@ -18,6 +18,6 @@ sizes:
   - Footbag
 styles:
   - name: Cameo
-    color: '#777777'
-    image: /images/products/footbag-drama/footbag-drama-cameo.png
+    color: '#8f9788'
+    image: /images/products/footbag-drama/footbag-drama-cameo.jpg
 ---
