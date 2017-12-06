@@ -23,7 +23,6 @@
 	background: $brand-color no-repeat center;
 	background-size: cover;
 	position: relative;
-	height: 400px;  /* leon */
 
 	h2 {
 		text-shadow: 0 1px 3px #000;
@@ -40,6 +39,11 @@
 	p {
 		color: #fff;
 	}
+}
+
+/* leon */
+section.hero {
+    max-height: 400px;
 }
 
 .content {
