@@ -36,8 +36,8 @@
 		</header>
 
 		<section class="hero">
-		    <div style='width:20%; float:left;' >left</div>
-			<div class="text-container">
+		    <div style='width:33.33%; float:left;' >left</div>
+			<div class="text-container" style='width:33.33%; float:left;'>
 				{% if page.hero %}
 					<h2>{{ page.hero }}</h2>
 					<p class="sub-text">{{ page.sub_hero }}</p>
@@ -45,7 +45,7 @@
 					<h2>{{ page.name }}</h2>
 				{% endif %}
 			</div>
-			<div style='width:20%; float:left;'>right</div>
+			<div style='width:33.33%; float:left;'>right</div>
 		</section>
 
 		{{ content }}
