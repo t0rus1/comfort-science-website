@@ -35,6 +35,9 @@ collections:
   gamers:
     _hide_content: true
     output: true
+  footbags:
+    _hide_content: true
+    output: true
     
 
 permalink: pretty
@@ -56,6 +59,12 @@ defaults:
     scope:
       path: ""
       type: "gamers"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "footbags"
     values:
       layout: "product"
   -
