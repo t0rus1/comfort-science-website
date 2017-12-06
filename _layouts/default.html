@@ -37,12 +37,14 @@
 
 		<section class="hero">
 			<div class="text-container">
+			    <div>left</div>
 				{% if page.hero %}
 					<h2>{{ page.hero }}</h2>
 					<p class="sub-text">{{ page.sub_hero }}</p>
 				{% elsif page.name %}
 					<h2>{{ page.name }}</h2>
 				{% endif %}
+				<div>right</div>
 			</div>
 		</section>
 
