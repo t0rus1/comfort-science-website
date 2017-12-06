@@ -4,6 +4,13 @@ section.hero {
 }
 
 .hero div div {
-   width: 33.333%; 
-   float: left; 
+    width: 33.333%; 
+    float: left; 
+}
+
+.hero div div img {
+    width: 100%; 
+    height: auto; 
+    position: relative; 
+    top: -240px
 }
