@@ -40,8 +40,7 @@
 			    <div style='display: inline; width: 33.3%; margin 0 auto;'>left</div>
 			    <div style='display: inline; width: 33.3%; margin 0 auto;'>
     				{% if page.hero %}
-    					<h2 style='display: inline;'>{{ page.hero }}</h2><br/>
-    					<P style='display: inline;'>{{ page.sub_hero }}</P>
+    					<h2 style='display: inline;'>{{ page.hero }}<br/>{{ page.sub_hero }}</h2>
     				{% elsif page.name %}
     					<h2 style='display: inline;'>{{ page.name }}</h2>
     				{% endif %}
