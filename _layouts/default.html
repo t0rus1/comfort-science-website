@@ -37,14 +37,14 @@
 
 		<section class="hero">
 			<div class="text-container">
-			    <div>left</div>
+			    <div style='margin 0 auto;'>left</div>
 				{% if page.hero %}
-					<h2>{{ page.hero }}</h2>
-					<p class="sub-text">{{ page.sub_hero }}</p>
+					<h2 style='display: inline; margin 0 auto;'>{{ page.hero }}</h2>
+					<p style='display: inline; margin 0 auto;' class="sub-text">{{ page.sub_hero }}</p>
 				{% elsif page.name %}
-					<h2>{{ page.name }}</h2>
+					<h2 style='display: inline; margin 0 auto;'>{{ page.name }}</h2>
 				{% endif %}
-				<div>right</div>
+				<div style='margin 0 auto;'>right</div>
 			</div>
 		</section>
 
