@@ -1,0 +1,16 @@
+/* leon */
+section.hero {
+    height: 330px;
+}
+
+.heropics div {
+    width: 33.333%; 
+    float: left;  
+}
+
+.heropics div img {
+    width: 100%; 
+    height: auto; 
+    position: relative; 
+    top: -240px
+}
