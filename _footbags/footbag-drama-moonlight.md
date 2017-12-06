@@ -18,6 +18,6 @@ sizes:
   - Footbag
 styles:
   - name: Moonlight
-    color: '#949297'
+    color: '#676C6F'
     image: /images/products/footbag-drama/footbag-drama-moonlight.jpg
 ---
