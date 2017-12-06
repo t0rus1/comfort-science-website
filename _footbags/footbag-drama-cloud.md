@@ -1,5 +1,5 @@
 ---
-name: Footbag Drama Cameo
+name: Footbag Drama Cloud
 description_markdown: >-
   Footbag - to accompany Family and Adult sized beanbags
 
@@ -12,12 +12,12 @@ description_markdown: >-
   height ) and weighs approximately **7** kg.
 garment_type:
 price: 1280
-sku: FB_DRAMA_CAMEO
+sku: FB_DRAMA_CLOUD
 stock: 10
 sizes:
   - Footbag
 styles:
-  - name: Cameo
-    color: '#8f9788'
-    image: /images/products/footbag-drama/footbag-drama-cameo.jpg
+  - name: Cloud
+    color: '#D2D0C3'
+    image: /images/products/footbag-drama/footbag-drama-cloud.jpg
 ---
