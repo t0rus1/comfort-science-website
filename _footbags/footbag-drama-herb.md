@@ -18,6 +18,6 @@ sizes:
   - Footbag
 styles:
   - name: Herb
-    color: '#6C5B51'
+    color: '#756943'
     image: /images/products/footbag-drama/footbag-drama-herb.jpg
 ---
