@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Coffee
     color: '#454452'
-    image: /images/products/adult-corduroy/adult-corduroy-graphite.jpg
+    image: /images/products/adult-corduroy/adult-corduroy-graphite2.jpg
 ---
