@@ -3,4 +3,4 @@ layout: null
 ---
 
 {% include_relative _style-picker.js %}
-{% include_erlative _gallery.js %}
+{% include_relative _gallery.js %}
