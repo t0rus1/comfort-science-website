@@ -1,5 +1,5 @@
 ---
-name: Family Corduroy Coffee
+name: Family Corduroy Chocolate Brown
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in luxurious corduroy
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 3900
-sku: XL_CORD_COFFEE
+sku: XL_CORD_CHOCBROWN
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Coffee
-    color: '#856558'
-    image: /images/products/family-corduroy/family-corduroy-coffee.jpg
+  - name: Chocolate Brown
+    color: '#5c4340'
+    image: /images/products/family-corduroy/family-corduroy-chocbrown.png
 ---
