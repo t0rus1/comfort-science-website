@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 name: Family Corduroy Charcoal
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in serviceable denim
