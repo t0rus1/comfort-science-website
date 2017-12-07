@@ -2,11 +2,11 @@
   link: /
   new_window: false
   highlight: true
-- name: Family sizes
+- name: Family
   link: /families
   new_window: false
   highlight: true
-- name: Gamer sizes
+- name: Gamer
   link: /gamers
   new_window: false
   highlight: true
@@ -17,8 +17,12 @@
 - name: About
   link: /about/
   new_window: false
-  highlight: false
+  highlight: true
 - name: Contact
   link: /contact/
   new_window: false
-  highlight: false
+  highlight: true
+- name: Gallery
+  link: /gallery/
+  new_window: true
+  highlight: true
