@@ -6,7 +6,7 @@ url: "http://honest-grouse.cloudvent.net/"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key: "AIzaSyC4jfDcuwuwCjFaMhUh6tGx6PUVLugH2iI"
-snipcart_key: "Mjc2YmIwNzEtOWRlYy00MjQ5LThlOGYtYjAwYWY2M2EyY2UyNjM2NDczMDU3ODc0Njk4MzQ5"
+snipcart_key: "Y2ZhMGM1MzItNzgwMi00YWE4LWJjZmEtMTg3ZWIxOTVjNDAzNjM2NDczMDU3ODc0Njk4MzQ5"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
