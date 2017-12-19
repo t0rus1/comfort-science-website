@@ -39,11 +39,10 @@
 		<section class="hero"  style='background-image: url("/images/hero/ComfortScienceLeft.png"), url("/images/hero/AllBagsRelativeSketch2.png"); background-size: contain, contain; background-repeat: no-repeat, no-repeat;   background-position: 0% 0%, 100% 0%;'>
 			<div class="text-container">
 				{% if page.hero %}
-					<h2>{{ page.hero }}</h2>
+					<h4>{{ page.hero }}</h4>
 					<p class="sub-text">{{ page.sub_hero }}</p>
 				{% elsif page.name %}
-					<!--<h2>{{ page.name }}</h2>-->
-					<h2>{{ &nbsp; }}</h2>
+					<h2>{{ page.name }}</h2>
 				{% endif %}
 			</div>
 		</section>
