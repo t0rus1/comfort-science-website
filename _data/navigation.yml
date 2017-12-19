@@ -1,9 +1,9 @@
-- name: Adult sizes
-  link: /
-  new_window: false
-  highlight: true
 - name: Family
   link: /families
+  new_window: false
+  highlight: true
+- name: Adult sizes
+  link: /
   new_window: false
   highlight: true
 - name: Gamer
