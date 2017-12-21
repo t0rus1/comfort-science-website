@@ -26,6 +26,9 @@ social:
 collections:
   staff_members:
     _hide_content: true
+  productss:
+    _hide_content: true
+    output: true
   families:
     _hide_content: true
     output: true
@@ -43,6 +46,12 @@ collections:
 permalink: pretty
 
 defaults:
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
   -
     scope:
       path: ""
