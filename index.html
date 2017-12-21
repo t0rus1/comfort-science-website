@@ -12,23 +12,23 @@ sub_hero:
             <p class='editable'>Choose from <b>4</b> sizes (<a href="/families">Family</a>, <a class="cc-active" href="/">Adult</a>, <a href="/gamers">Gamer</a> and <a href="/footbags">Footbag</a>) and various fabrics (<a href="http://www.hertex.co.za/fabrics/drama.html">Drama</a> by Hertex, Denim, Corduroy and others we promote from time to time).</p>
             <p class='editable'>The bags consist of an <em>inner bag</em> filled with chipped (flexible polyurethane) foam and an <em>outer washable cover</em> of your choice which zips off and on.</p>
             <p class='editable'><strong>Order online</strong>, or <a href='/contact'>contact</a> us if you have special requirements. We make to order and usually dispatch within a week.</p>
-            <h2 style='text-align: center'>ADULT SIZES</h2>
-            <p style='text-align: center'>The adult size is 120 x 120 x 75 (width x depth x height in cm)</p>
-			<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_products" class="btn"><strong>&#9998;</strong> Manage products</a></p>
-			<ul class="product-list">
-				{% for product in site.products %}
-					<li>
-						{% include product-styles.html product=product %}
-						<div class="product-details">
-							<h4><a href="{{ product.url }}">{{ product.name }}</a></h4>
-							<p>R {{ product.price }}</p>
-						</div>
-					</li>
-				{% endfor %}
-				<li></li>
-				<li></li>
-				<li></li>
-			</ul>
+            <!--<h2 style='text-align: center'>ADULT SIZES</h2>-->
+            <!--<p style='text-align: center'>The adult size is 120 x 120 x 75 (width x depth x height in cm)</p>-->
+			<!--<p class="editor-link" style="text-align: center;"><a href="cloudcannon:collections/_products" class="btn"><strong>&#9998;</strong> Manage products</a></p>-->
+			<!--<ul class="product-list">-->
+			<!--	{% for product in site.products %}-->
+			<!--		<li>-->
+			<!--			{% include product-styles.html product=product %}-->
+			<!--			<div class="product-details">-->
+			<!--				<h4><a href="{{ product.url }}">{{ product.name }}</a></h4>-->
+			<!--				<p>R {{ product.price }}</p>-->
+			<!--			</div>-->
+			<!--		</li>-->
+			<!--	{% endfor %}-->
+			<!--	<li></li>-->
+			<!--	<li></li>-->
+			<!--	<li></li>-->
+			<!--</ul>-->
 		</div>
 	</section>
 </div>
