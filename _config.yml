@@ -26,10 +26,10 @@ social:
 collections:
   staff_members:
     _hide_content: true
-  products:
+  families:
     _hide_content: true
     output: true
-  families:
+  adults:
     _hide_content: true
     output: true
   gamers:
@@ -46,13 +46,13 @@ defaults:
   -
     scope:
       path: ""
-      type: "products"
+      type: "families"
     values:
       layout: "product"
   -
     scope:
       path: ""
-      type: "families"
+      type: "adults"
     values:
       layout: "product"
   -
