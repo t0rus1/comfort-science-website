@@ -1,3 +1,7 @@
+- name: About
+  link: /about/
+  new_window: false
+  highlight: true
 - name: Family
   link: /families
   new_window: false
@@ -12,10 +16,6 @@
   highlight: true
 - name: Footbags
   link: /footbags
-  new_window: false
-  highlight: true
-- name: About
-  link: /about/
   new_window: false
   highlight: true
 - name: Contact Us
