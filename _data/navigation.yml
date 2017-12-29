@@ -6,11 +6,11 @@
   link: /families
   new_window: false
   highlight: true
-- name: Adult
+- name: Adult<br/>size
   link: /adults
   new_window: false
   highlight: true
-- name: Gamer
+- name: Gamer<br/>size
   link: /gamers
   new_window: false
   highlight: true
