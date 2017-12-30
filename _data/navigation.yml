@@ -22,6 +22,10 @@
   link: /contact/
   new_window: false
   highlight: true
+- name: Special<br/>offers
+  link: /specials/
+  new_window: true
+  highlight: true
 - name: Gallery
   link: /gallery/
   new_window: true
