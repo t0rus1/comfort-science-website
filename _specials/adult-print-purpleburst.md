@@ -11,7 +11,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Purple
+  - name: Purple Burst
     color: '#562B63'
     image: /images/products/specials/adult-print-purpleburst.jpg
 ---
