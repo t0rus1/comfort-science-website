@@ -1,4 +1,4 @@
-- name: About
+- name: About<br/>us
   link: /about/
   new_window: false
   highlight: true
@@ -18,7 +18,7 @@
   link: /footbags
   new_window: false
   highlight: true
-- name: Contact Us
+- name: Contact<br/>Us
   link: /contact/
   new_window: false
   highlight: true
