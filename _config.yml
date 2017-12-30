@@ -38,6 +38,9 @@ collections:
   footbags:
     _hide_content: true
     output: true
+  specials:
+    _hide_content: true
+    output: true
     
 
 permalink: pretty
