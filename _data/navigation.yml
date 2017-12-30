@@ -1,3 +1,7 @@
+- name: More<br/>Info
+  link: /about/
+  new_window: false
+  highlight: true
 - name: Family<br/>size
   link: /families
   new_window: false
@@ -20,10 +24,6 @@
   highlight: true
 - name: Special<br/>offers
   link: /specials/
-  new_window: false
-  highlight: true
-- name: More<br/>Info
-  link: /about/
   new_window: false
   highlight: true
   
