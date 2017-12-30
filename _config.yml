@@ -73,6 +73,12 @@ defaults:
   -
     scope:
       path: ""
+      type: "specials"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
     values:
       layout: "page"
   -
