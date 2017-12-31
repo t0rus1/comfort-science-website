@@ -17,7 +17,7 @@ description_markdown: >-
   The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
   x height ) and weighs approximately **25** kg.
 garment_type:
-price: 3599
+price: 359900
 sku: XL_DRAMA_SHITAKE
 stock: 10
 sizes:
