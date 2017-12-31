@@ -7,7 +7,7 @@ layout: default
 			<div class="product-container">
 				{% include product-styles.html product=page %}
 				<div class="product-details" id="add">
-					<h3>{{ page.name }} - {{ page.price | money }}</h3>
+					<h3>{{ page.name }} - {{ page.price | money: "ZAR" }}</h3>
 					{{ page.description_markdown | markdownify }}
 
 					<div class="button">{% include snipcart-button.html product=page %}</div>
