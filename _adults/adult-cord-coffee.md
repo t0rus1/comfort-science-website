@@ -8,7 +8,7 @@ description_markdown: >-
   The Adult size's dimensions are: **120 x 120 x 75**&nbsp; cm ( width x depth x
   height ) and weighs approximately **15** kg.
 garment_type:
-price: '3350'
+price: 335000
 sku: L_CORD_COFFEE
 stock: 10
 sizes:
