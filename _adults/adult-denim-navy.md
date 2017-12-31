@@ -11,7 +11,7 @@ description_markdown: >-
   The Adult size's dimensions are: **120 x 120 x 75**&nbsp; cm ( width x depth x
   height ) and weighs approximately **15** kg.
 garment_type:
-price: '2399'
+price: 239900
 sku: L_DENIM_NAVY
 stock: 10
 sizes:
