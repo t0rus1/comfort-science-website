@@ -9,7 +9,7 @@ description_markdown: >-
   The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
   x height ) and weighs approximately **25** kg.
 garment_type:
-price: 3900
+price: 3900.00
 sku: XL_CORD_CHARCOAL
 stock: 10
 sizes:
