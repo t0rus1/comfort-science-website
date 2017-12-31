@@ -94,6 +94,7 @@ jekyll-archives:
 gems:
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-money
 
 exclude:
   - Gemfile
