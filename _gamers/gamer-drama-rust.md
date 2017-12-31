@@ -20,7 +20,7 @@ description_markdown: >-
   The Gamer size's dimensions are: **120 x 90 x 65**&nbsp; cm ( width x depth x
   height ) and weighs approximately **9** kg.
 garment_type:
-price: 1799
+price: 179900
 sku: GM_DRAMA_RUST
 stock: 10
 sizes:
