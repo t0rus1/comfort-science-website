@@ -11,7 +11,7 @@ description_markdown: >-
   The Footbag's dimensions are: **90 x 60 x 45**&nbsp; cm ( width x depth x
   height ) and weighs approximately **7** kg.
 garment_type:
-price: 1280
+price: 128000
 sku: FB_DRAMA_LETTUCE
 stock: 10
 sizes:
