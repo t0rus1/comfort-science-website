@@ -30,7 +30,15 @@
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
+				<div class="company-name">
+				    <a href="{{ site.baseurl }}/">
+				        <!--{% include logo.html %} <span>{{ site.title }}</span>-->
+				        {% if page.name == "index.html" %}
+				            {% include logo.html %}
+				        {% endif %}
+				        <span>{{ site.title }}</span>
+				    </a>
+			    </div>
 				<!--<div class="company-name"><a href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a></div>-->
 				{% include navigation.html %}
 			</div>
