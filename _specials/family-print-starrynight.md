@@ -1,5 +1,5 @@
 ---
-name: Family Denim Navy
+name: Family Print Starry Night
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in serviceable denim
   fabric. The cover is non-crease and washable in cold water.&nbsp;
@@ -9,12 +9,12 @@ description_markdown: >-
   x height ) and weighs approximately **25** kg.
 garment_type:
 price: 2799
-sku: XL_DENIM_NAVY
+sku: XL_PRINT_STARRYNIGHT
 stock: 10
 sizes:
   - Family
 styles:
-  - name: Navy
-    color: '#384661'
-    image: /images/products/family-denim/family-denim-navy.jpg
+  - name: Starry Night
+    color: '#7289AB'
+    image: /images/products/special/family-print-starrynight.jpg
 ---
