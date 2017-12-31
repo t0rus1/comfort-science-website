@@ -14,6 +14,6 @@
 	data-item-custom2-name="Color"
 	data-item-custom2-options="{{ colors }}"
 	data-item-url="{{ include.product.url }}"
-	data-item-price="{{ include.product.price }}">
+	data-item-price="{{ include.product.price/100 }}">
 	{% if include.text %}{{ include.text }}{% else %}Buy it for R {{ include.product.price }} (includes delivery){% endif %}
 </button>
