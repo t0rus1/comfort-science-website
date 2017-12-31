@@ -30,15 +30,7 @@
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name">
-				    <a href="{{ site.baseurl }}/">
-				        <!--{% include logo.html %} <span>{{ site.title }}</span>-->
-				        {% if page.name == "index.html" %}
-				            {% include logo.html %}
-				        {% endif %}
-				        <span>{{ site.title }}</span>
-				    </a>
-			    </div>
+				<div class="company-name"><a href="{{ site.baseurl }}/">{% include logo.html %} <span>{{ site.title }}</span></a></div>
 				<!--<div class="company-name"><a href="{{ site.baseurl }}/"><span>{{ site.title }}</span></a></div>-->
 				{% include navigation.html %}
 			</div>
@@ -52,8 +44,9 @@
 			{% elsif page.name %}
 				<h2>{{ page.name }}</h2>
 			{% endif %}
-			<div class="xtext-container" style='margin-top: 20px; min-height: 297px; background-image: url("/images/hero/logo_long_CS.png"); background-repeat: no-repeat; background-position: center; background-size: contain'>
-			</div>
+			{% if page.name == 'index.html' %}
+			    <div class="xtext-container" style='margin-top: 20px; min-height: 297px; background-image: url("/images/hero/logo_long_CS.png"); background-repeat: no-repeat; background-position: center; background-size: contain'></div>
+			{% endif %}
 		</section>
 
 		{{ content }}
