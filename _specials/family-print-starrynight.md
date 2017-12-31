@@ -16,5 +16,5 @@ sizes:
 styles:
   - name: Starry Night
     color: '#7289AB'
-    image: /images/products/special/family-print-starrynight.jpg
+    image: /images/products/specials/family-print-starrynight.jpg
 ---
