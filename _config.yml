@@ -11,16 +11,17 @@ snipcart_key: "Y2ZhMGM1MzItNzgwMi00YWE4LWJjZmEtMTg3ZWIxOTVjNDAzNjM2NDczMDU3ODc0N
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: "Beanbags in various sizes, fabrics and colours delivered to your door"
+description: Beanbags in various sizes, fabrics and colours delivered to your door
 author:
-  name: "leon van dyk"
-# email: leon@thebeanbag.co.za
+  name: leon van dyk
+  email: leonvandyk@gmail.com
+  twitter: lee_vdyk # twitter username without the @ symbol
 social:
-  name: "The Bean Bag"
+  name: The Bean Bag
   links:
     - http://www.comfort-science.com
 twitter:
-  username: 
+  username: TheBeanBagZA
 webmaster_verifications:
   google: googleaf51ccd5d1a36237
 
