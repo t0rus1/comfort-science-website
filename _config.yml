@@ -12,9 +12,9 @@ snipcart_key: "Y2ZhMGM1MzItNzgwMi00YWE4LWJjZmEtMTg3ZWIxOTVjNDAzNjM2NDczMDU3ODc0N
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: "Beanbags in various sizes, fabrics and colours delivered to your door"
-#author:
-#  name: leon
-#  email: leon@thebeanbag.co.za
+author:
+  name: "leon van dyk"
+# email: leon@thebeanbag.co.za
 social:
   name: "The Bean Bag"
   links:
