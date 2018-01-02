@@ -8,7 +8,7 @@ description_markdown: >-
   The Family size's dimensions are: **160 x 160 x 60**&nbsp; cm ( width x depth
   x height ) and weighs approximately **25** kg.
 garment_type:
-price: 2799
+price: 279900
 sku: XL_PRINT_STARRYNIGHT
 stock: 10
 sizes:
