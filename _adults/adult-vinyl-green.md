@@ -1,5 +1,5 @@
 ---
-name: Adult Vinyl Yellow
+name: Adult Vinyl Green
 description_markdown: >-
   Beanbag with foam filled inner bag and removable cover in vinyl.
 
@@ -11,12 +11,12 @@ description_markdown: >-
   height ) and weighs approximately **15** kg.
 garment_type:
 price: 259900
-sku: L_VINYL_YELLOW
+sku: L_VINYL_GREEN
 stock: 10
 sizes:
   - Adult
 styles:
   - name: Yellow
-    color: '#f9f900'
-    image: /images/products/adult-vinyl/adult-vinyl-yellow.jpg
+    color: '#77f900'
+    image: /images/products/adult-vinyl/adult-vinyl-green.jpg
 ---
