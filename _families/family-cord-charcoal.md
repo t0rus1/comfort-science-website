@@ -18,10 +18,4 @@ styles:
   - name: Navy
     color: '#949091'
     image: /images/products/family-corduroy/family-corduroy-charcoal.jpg
-  - name: Empty set - empty inner bag plus this cover.
-    color:
-    image:
-  - name:
-    color:
-    image:
 ---
