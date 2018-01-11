@@ -14,7 +14,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Sand
+  - name: Red
     color: '#ae0b1e'
     image: /images/products/adult-corduroy/adult-corduroy-red2.jpg
 ---
