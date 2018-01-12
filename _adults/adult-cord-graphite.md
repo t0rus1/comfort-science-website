@@ -14,7 +14,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Coffee
+  - name: Graphite
     color: '#454452'
     image: /images/products/adult-corduroy/adult-corduroy-graphite2.jpg
 ---
