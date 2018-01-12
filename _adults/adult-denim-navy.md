@@ -17,7 +17,7 @@ stock: 10
 sizes:
   - Adult
 styles:
-  - name: Sand
+  - name: Navy
     color: '#30384b'
     image: /images/products/adult-denim/adult-denim-navy.jpg
 ---
