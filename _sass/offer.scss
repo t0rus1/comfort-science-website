@@ -1,0 +1,56 @@
+// body {
+//   background: tomato;
+// }
+
+.offer-overflow-hide {
+  height: 60px;
+  width: 290px;
+  display: block;
+  margin: 150px auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.offer-hole {
+     content: "";
+    display: block;
+    width: 290px;
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    height: 10px;
+    border-radius: 20px;
+    background: black;
+    z-index: 0;
+}
+
+.offer-button {
+  height: 60px;
+  width: 280px;
+  text-align: center;
+  line-height: 1.8;
+  color: white;
+  display: block;
+  position: relative;
+  background-color: #105f98;
+  margin: 0 auto;
+  transform: translateY(30px);
+  transition: transform 200ms ease-in-out;
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 280px;
+    height: 5px;
+    background: black;
+    bottom: 0;
+    transform: translateY(-30px);
+      transition: transform 200ms cubic-bezier(.36,-0.17,.64,1.15);
+  }
+  &:hover {
+    transform: translateY(0);
+    &:after {
+      transform: translateY(0);
+    }
+  }
+}
