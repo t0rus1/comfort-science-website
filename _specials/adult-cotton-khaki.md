@@ -12,7 +12,7 @@ price: 219900
 sku: L_COTTON_KHAKI
 stock: 10
 sizes:
-  - Family
+  - Adult
 styles:
   - name: Khaki
     color: '#ccaa49'
