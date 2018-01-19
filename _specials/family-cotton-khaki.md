@@ -1,7 +1,7 @@
 ---
 name: Family Cotton Khaki
 description_markdown: >-
-  Beanbag with foam filled inner bag and removable cover in serviceable denim
+  Beanbag with foam filled inner bag and removable cover in cotton
   fabric. The cover is washable in cold water.&nbsp;
 
 
