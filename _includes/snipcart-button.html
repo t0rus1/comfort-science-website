@@ -15,5 +15,5 @@
 	data-item-custom2-options="{{ colors }}"
 	data-item-url="{{ include.product.url }}"
 	data-item-price="{{ include.product.price | divided_by: 100 }}">
-	{% if include.text %}{{ include.text }}{% else %}Buy it for {{ include.product.price | money: "ZAR" }} (includes delivery){% endif %}
+	{% if include.text %}{{ include.text }}{% else %}Order it for {{ include.product.price | money: "ZAR" }} (includes delivery){% endif %}
 </button>
