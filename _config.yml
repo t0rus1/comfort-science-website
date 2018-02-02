@@ -46,6 +46,9 @@ collections:
   specials:
     _hide_content: true
     output: true
+  adultcovers:
+    _hide_content: true
+    output: true
     
 
 permalink: pretty
@@ -79,6 +82,12 @@ defaults:
     scope:
       path: ""
       type: "specials"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+      type: "adultcovers"
     values:
       layout: "product"
   -
