@@ -1,16 +1,16 @@
 ---
-name: Cover only, Adult sized, Cotton, Royal Blue
+name: Cover only, Adult sized, Cotton, Tangerine
 published: true
 description_markdown: >-
   only 1 left.&nbsp;
 garment_type:
 price: 49900
-sku: L_COVER-COTTONROYALBLUE
+sku: L_COVER-COTTONTANGERINE
 stock: 1
 sizes:
   - Adult
 styles:
-  - name: Adult Cover Cotton, Royal Blue
+  - name: Adult Cover Cotton, Tangerine
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-cotton-royalblue.jpg
+    image: /images/products/adult-covers/adult-cover-cotton-tangerine.jpg
 ---
