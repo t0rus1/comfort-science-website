@@ -5,7 +5,7 @@ description_markdown: >-
   only 1 left.&nbsp;
 garment_type:
 price: 49900
-sku: L_COVER-STARRYNIGHT
+sku: L_COVER-SPIDERMAN
 stock: 1
 sizes:
   - Adult
