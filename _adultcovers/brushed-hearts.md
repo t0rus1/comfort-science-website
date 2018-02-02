@@ -1,5 +1,5 @@
 ---
-name: Adult Cover Brushed Cotton Hearts
+name: Cover only, Adultsized, Brushed Cotton Hearts
 published: true
 description_markdown: >-
   Soft and warm, only 1 left.&nbsp;
