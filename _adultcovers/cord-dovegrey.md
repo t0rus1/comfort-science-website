@@ -1,16 +1,16 @@
 ---
-name: Cover only, Adult sized, Cotton print, Cars
+name: Cover only, Adult sized, Corduroy, Dove-Grey
 published: true
 description_markdown: >-
-  only 3 left.&nbsp;
+  only 1 left.&nbsp;
 garment_type:
-price: 49900
-sku: L_COVER-CARS
-stock: 3
+price: 69900
+sku: L_COVER-CORDDOVEGREY
+stock: 1
 sizes:
   - Adult
 styles:
-  - name: Adult Cover Cars
+  - name: Adult Cover Corduroy, Dove-Grey
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-cars.jpg
+    image: /images/products/adult-covers/adult-cover-cord-dovegrey.jpg
 ---
