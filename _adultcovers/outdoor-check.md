@@ -2,7 +2,7 @@
 name: Cover only, Adult sized, Outdoor, Check
 published: true
 description_markdown: >-
-  only 1 left.&nbsp;
+  Water resistant, only 1 left.&nbsp;
 garment_type:
 price: 49900
 sku: L_COVER-OUTDOORCHECK
