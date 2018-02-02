@@ -1,6 +1,6 @@
 ---
 name: Adult Cover Brushed Cotton Hearts
-published: false
+published: true
 description_markdown: >-
   Soft and warm, only 1 left.&nbsp;
 garment_type:
