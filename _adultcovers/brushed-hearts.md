@@ -12,5 +12,5 @@ sizes:
 styles:
   - name: Adult Cover Brushed Cotton Hearts
     color: '#FFF'
-    image: /images/products/adultcovers/adult-cover-brushed-hearts.jpg
+    image: /images/products/adult-covers/adult-cover-brushed-hearts.jpg
 ---
