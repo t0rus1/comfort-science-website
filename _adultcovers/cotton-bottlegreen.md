@@ -2,11 +2,11 @@
 name: Cover only, Adult sized, Cotton, Bottle Green
 published: true
 description_markdown: >-
-  only 1 left.&nbsp;
+  only 2 left.&nbsp;
 garment_type:
 price: 49900
 sku: L_COVER-COTTONBOTTLEGREEN
-stock: 1
+stock: 2
 sizes:
   - Adult
 styles:
