@@ -4,7 +4,7 @@ published: true
 description_markdown: >-
   only 1 left.&nbsp;
 garment_type:
-price: 69900
+price: 89900
 sku: L_COVER-CORDDOVEGREY
 stock: 1
 sizes:
