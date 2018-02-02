@@ -1,6 +1,6 @@
 ---
 name:
-garment_type: beanbag cover
+garment_type: beanbag
 price:
 sku:
 description:
