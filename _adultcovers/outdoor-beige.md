@@ -12,5 +12,5 @@ sizes:
 styles:
   - name: Adult Cover Outdoor, Beige
     color: '#FFF'
-    image: /images/products/adult-covers/adult-outdoor-beige.jpg
+    image: /images/products/adult-covers/adult-cover-outdoor-beige.jpg
 ---
