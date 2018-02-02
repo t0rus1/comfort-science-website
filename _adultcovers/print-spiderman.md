@@ -1,5 +1,5 @@
 ---
-name: Cover only, Adult sized, Print, Starry Night
+name: Cover only, Adult sized, Print, Spiderman
 published: true
 description_markdown: >-
   only 1 left.&nbsp;
@@ -10,7 +10,7 @@ stock: 1
 sizes:
   - Adult
 styles:
-  - name: Adult Cover Print Starry Night
+  - name: Adult Cover Print Spiderman
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-print-starry.jpg
+    image: /images/products/adult-covers/adult-cover-print-spiderman.jpg
 ---
