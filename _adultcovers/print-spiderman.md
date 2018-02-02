@@ -12,5 +12,5 @@ sizes:
 styles:
   - name: Adult Cover Print Spiderman
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-print-spiderman.jpg
+    image: /images/products/adult-covers/adult-cover-spiderman.jpg
 ---
