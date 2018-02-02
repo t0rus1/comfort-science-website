@@ -1,16 +1,16 @@
 ---
-name: Cover only, Adult sized, Brushed Cotton Hearts
+name: Cover only, Adult sized, Cotton print, Cars
 published: true
 description_markdown: >-
-  Soft and warm, only 1 left.&nbsp;
+  only 3 left.&nbsp;
 garment_type:
 price: 49900
-sku: L_COVER-BRUSHEDHEARTS
-stock: 1
+sku: L_COVER-CARS
+stock: 3
 sizes:
   - Adult
 styles:
-  - name: Adult Cover Brushed Cotton Hearts
+  - name: Adult Cover Cars
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-brushed-hearts.jpg
+    image: /images/products/adult-covers/adult-cover-cars.jpg
 ---
