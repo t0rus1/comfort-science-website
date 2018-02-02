@@ -1,16 +1,16 @@
 ---
-name: Cover only, Adult sized, Patchwork Jumble
+name: Cover only, Adult sized, Patchwork 
 published: true
 description_markdown: >-
-  only 3 left.&nbsp;
+  only 2 left.&nbsp;
 garment_type:
 price: 49900
-sku: L_COVER-PATCHWORK1
-stock: 3
+sku: L_COVER-PATCHWORK2
+stock: 2
 sizes:
   - Adult
 styles:
-  - name: Adult Cover Patchwork Jumble
+  - name: Adult Cover Patchwork
     color: '#FFF'
-    image: /images/products/adult-covers/adult-cover-patch1.jpg
+    image: /images/products/adult-covers/adult-cover-patch2.jpg
 ---
