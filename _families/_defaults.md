@@ -5,7 +5,7 @@ price:
 sku:
 description:
 sizes:
-  - name:
+  - name: Family
 styles:
   - name:
     color:
